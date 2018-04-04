@@ -1,0 +1,7 @@
+[submodule "dependencies/range-v3"]
+	path = dependencies/range-v3
+	url = https://github.com/ericniebler/range-v3.git
+[submodule "dependencies/immer"]
+	path = dependencies/immer
+	url = https://github.com/apmccartney/immer.git
+	branch = feature/sentinel
